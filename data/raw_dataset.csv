@@ -1,0 +1,6 @@
+amount,country,device,fraud
+100,US,mobile,0
+5000,UK,desktop,1
+200,US,mobile,0
+7000,CN,desktop,1
+300,US,tablet,0

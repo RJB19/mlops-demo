@@ -1,0 +1,15 @@
+# Web framework to serve API
+fastapi
+
+# ASGI server to run FastAPI
+uvicorn
+
+# Data processing
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Save/load model artifact
+joblib
