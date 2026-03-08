@@ -32,3 +32,6 @@ jobs:
     - name: Build Docker image
       run: |
         docker build -t mlops-demo:${{ github.sha }} .
+
+    - name: Set Python path
+      run: echo "PYTHONPATH=${{ github.workspace }}" >> $GITHUB_ENV
