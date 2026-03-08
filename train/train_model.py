@@ -15,4 +15,4 @@ joblib.dump(model, "model/model.pkl")
 print("Model trained!")
 
 
-# Triggering CI/CD workflow test at 2026-03-08
+# Triggering CI/CD workflow test at 2026-03-08 2
