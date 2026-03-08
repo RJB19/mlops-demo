@@ -13,3 +13,7 @@ scikit-learn
 
 # Save/load model artifact
 joblib
+
+pytest
+
+httpx
